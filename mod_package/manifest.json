@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Guid": "2ddc0d80-7ace-45d3-a584-89f1c25c8152",
+  "Name": "FRV Custom Horns",
+  "Description": "Replaces the FRV horn sound with one of five custom horns.",
+  "Options": [
+    {
+      "Name": "FRV Horn Sound",
+      "Description": "Choose which horn sound the FRV plays.",
+      "SubOptions": [
+        {
+          "Name": "Clown Horn",
+          "Description": "Comical circus clown horn.",
+          "Include": [ "clown_horn" ]
+        },
+        {
+          "Name": "Goofy Horn",
+          "Description": "Goofy cartoon-style horn.",
+          "Include": [ "goofy_horn" ]
+        },
+        {
+          "Name": "La Cucaracha",
+          "Description": "The classic La Cucaracha melody.",
+          "Include": [ "la_cucaracha" ]
+        },
+        {
+          "Name": "Train Horn",
+          "Description": "Deep, loud locomotive train horn.",
+          "Include": [ "train_horn" ]
+        },
+        {
+          "Name": "Viking Horn",
+          "Description": "Long, deep Viking war horn.",
+          "Include": [ "viking_horn" ]
+        }
+      ]
+    }
+  ]
+}
