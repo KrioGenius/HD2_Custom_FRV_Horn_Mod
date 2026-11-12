@@ -1,0 +1,12 @@
+# Игровые архивы и инструменты
+tools/
+game_extract/
+*.pak
+*.stream
+*.bnk
+*.clineignore
+
+# Временные файлы и готовые архивы релиза
+dist/
+*.zip
+__pycache__/
