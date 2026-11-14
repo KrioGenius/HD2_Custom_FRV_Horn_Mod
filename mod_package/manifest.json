@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "Guid": "2ddc0d80-7ace-45d3-a584-89f1c25c8152",
+  "Name": "FRV Custom Horns",
+  "Description": "(v0.2.0) Custom selectable horn sounds for M-102 Gunner, M-103 Supply, and M-104 Incinerator FRV.",
+  "Options": [
+    {
+      "Name": "M-102 Gunner FRV",
+      "Description": "Select a custom horn for the standard M-102 Gunner FRV.",
+      "SubOptions": [
+        {
+          "Name": "Clown Horn",
+          "Description": "",
+          "Include": [
+            "M-102_Gunner_FRV/Clown_Horn"
+          ]
+        },
+        {
+          "Name": "Goofy Car Horn",
+          "Description": "",
+          "Include": [
+            "M-102_Gunner_FRV/Goofy_Ahh_Horn"
+          ]
+        },
+        {
+          "Name": "La Cucaracha",
+          "Description": "",
+          "Include": [
+            "M-102_Gunner_FRV/La_Cucaracha_Car_Honk"
+          ]
+        },
+        {
+          "Name": "Train Horn",
+          "Description": "",
+          "Include": [
+            "M-102_Gunner_FRV/Train_Horn_Long_and_Bass"
+          ]
+        },
+        {
+          "Name": "Viking Horn",
+          "Description": "",
+          "Include": [
+            "M-102_Gunner_FRV/Viking_Horn"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "M-103 Supply FRV",
+      "Description": "Select a custom horn for the M-103 Supply FRV.",
+      "SubOptions": [
+        {
+          "Name": "Clown Horn",
+          "Description": "",
+          "Include": [
+            "M-103_Supply_FRV/Clown_Horn"
+          ]
+        },
+        {
+          "Name": "Goofy Car Horn",
+          "Description": "",
+          "Include": [
+            "M-103_Supply_FRV/Goofy_Ahh_Horn"
+          ]
+        },
+        {
+          "Name": "La Cucaracha",
+          "Description": "",
+          "Include": [
+            "M-103_Supply_FRV/La_Cucaracha_Car_Honk"
+          ]
+        },
+        {
+          "Name": "Train Horn",
+          "Description": "",
+          "Include": [
+            "M-103_Supply_FRV/Train_Horn_Long_and_Bass"
+          ]
+        },
+        {
+          "Name": "Viking Horn",
+          "Description": "",
+          "Include": [
+            "M-103_Supply_FRV/Viking_Horn"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "M-104 Incinerator FRV",
+      "Description": "Select a custom horn for the M-104 Incinerator FRV.",
+      "SubOptions": [
+        {
+          "Name": "Clown Horn",
+          "Description": "",
+          "Include": [
+            "M-104_Incinerator_FRV/Clown_Horn"
+          ]
+        },
+        {
+          "Name": "Goofy Car Horn",
+          "Description": "",
+          "Include": [
+            "M-104_Incinerator_FRV/Goofy_Ahh_Horn"
+          ]
+        },
+        {
+          "Name": "La Cucaracha",
+          "Description": "",
+          "Include": [
+            "M-104_Incinerator_FRV/La_Cucaracha_Car_Honk"
+          ]
+        },
+        {
+          "Name": "Train Horn",
+          "Description": "",
+          "Include": [
+            "M-104_Incinerator_FRV/Train_Horn_Long_and_Bass"
+          ]
+        },
+        {
+          "Name": "Viking Horn",
+          "Description": "",
+          "Include": [
+            "M-104_Incinerator_FRV/Viking_Horn"
+          ]
+        }
+      ]
+    }
+  ]
+}
