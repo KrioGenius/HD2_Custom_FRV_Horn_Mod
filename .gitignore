@@ -5,6 +5,7 @@ game_extract/
 *.stream
 *.bnk
 *.clineignore
+test_package/
 
 # Временные файлы и готовые архивы релиза
 dist/
